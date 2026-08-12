@@ -4,8 +4,10 @@
   "description": "",
   "main": "dots.js",
   "scripts": {
-    "dev": "ts-node dots.ts"
+    "run-with-node": "node dots.ts",
+    "run-with-bun": "bun dots"
   },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
