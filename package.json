@@ -1,0 +1,13 @@
+{
+  "name": "00_cli_dots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dots.js",
+  "scripts": {
+    "dev": "ts-node dots.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
